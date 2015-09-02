@@ -70,13 +70,7 @@ class ExtendedGrader {
                      
   
     
-    
-    //showing new commits
-    System.out.println( "Modifying this program for GitHub.com" );
-    
-    
-    
-    
+  
   } // end main method
   
   
